@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<One_Big_Serializer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <last_used_profile>New Sending Profile</last_used_profile>
+  <auto_save>false</auto_save>
+  <sending_to />
+  <sending_from />
+  <all_profiles>
+    <Sending_Profile>
+      <Sending_Profile_Name>New Sending Profile</Sending_Profile_Name>
+      <Ser_List_of_Dirs />
+      <Ser_List_of_File_Paths />
+      <Ser_Tytle />
+      <Ser_Txt_converted_name />
+      <Ser_Zip_name />
+      <Ser_Add_Hour_Bool>false</Ser_Add_Hour_Bool>
+      <Ser_Add_Date_Bool>false</Ser_Add_Date_Bool>
+      <Ser_Load_files_and_dirs>false</Ser_Load_files_and_dirs>
+      <Ser_Close_after_sending>false</Ser_Close_after_sending>
+      <Ser_Pack_to_zip>false</Ser_Pack_to_zip>
+    </Sending_Profile>
+  </all_profiles>
+</One_Big_Serializer>
