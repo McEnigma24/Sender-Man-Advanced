@@ -1,2 +1,2 @@
-gmail:wojciech.mackowiak24@gmail.com
-app_password:pyobhuumaakyyrjp
+gmail:
+app_password:

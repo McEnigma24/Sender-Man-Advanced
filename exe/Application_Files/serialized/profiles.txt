@@ -1,251 +1,26 @@
 <?xml version="1.0"?>
 <One_Big_Serializer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <last_used_profile>Badania Operacyjne - Projekt</last_used_profile>
+  <last_used_profile>New Sending Profile</last_used_profile>
   <auto_save>true</auto_save>
-  <sending_to>
-    <string>wojciech.mackowiak24@gmail.com</string>
-    <string>ignacy</string>
-  </sending_to>
-  <sending_from>
-    <string>Application Sender</string>
-    <string>Backup</string>
-  </sending_from>
+  <sending_to />
+  <sending_from />
   <all_profiles>
     <Sending_Profile>
-      <Sending_Profile_Name>Particle Simulation</Sending_Profile_Name>
-      <Ser_List_of_Dirs>
-        <Directory_filters>
-          <directory_path>S:\Programy Visual Studio\#5 semestr\Particle Simulations\Particle Simulations</directory_path>
-          <list_filters>
-            <string>cpp</string>
-            <string>h</string>
-          </list_filters>
-          <pack_whole_dir_to_zip>false</pack_whole_dir_to_zip>
-        </Directory_filters>
-        <Directory_filters>
-          <directory_path>S:\Duże rzeczy z PULPITU\Moje Pliki\I ARCHIWUM NABYTEJ WIEDZY</directory_path>
-          <list_filters />
-          <pack_whole_dir_to_zip>true</pack_whole_dir_to_zip>
-        </Directory_filters>
-        <Directory_filters>
-          <directory_path>S:\Duże rzeczy z PULPITU\Moje Pliki\I MOJE ROZKMINY</directory_path>
-          <list_filters />
-          <pack_whole_dir_to_zip>true</pack_whole_dir_to_zip>
-        </Directory_filters>
-      </Ser_List_of_Dirs>
-      <Ser_List_of_File_Paths />
-      <Ser_Tytle>Particle Sim</Ser_Tytle>
+      <Sending_Profile_Name>New Sending Profile</Sending_Profile_Name>
+      <Ser_List_of_Dirs />
+      <Ser_List_of_File_Paths>
+        <string>C:\Users\Admin\Desktop\Infa Techniczna.png</string>
+      </Ser_List_of_File_Paths>
+      <last_send_to>ignacyklucz@gmail.com</last_send_to>
+      <last_send_from>me</last_send_from>
+      <Ser_Tytle>Test</Ser_Tytle>
       <Ser_Txt_converted_name />
-      <Ser_Zip_name>code</Ser_Zip_name>
+      <Ser_Zip_name />
       <Ser_Add_Hour_Bool>false</Ser_Add_Hour_Bool>
-      <Ser_Add_Date_Bool>true</Ser_Add_Date_Bool>
+      <Ser_Add_Date_Bool>false</Ser_Add_Date_Bool>
       <Ser_Load_files_and_dirs>true</Ser_Load_files_and_dirs>
-      <Ser_Close_after_sending>true</Ser_Close_after_sending>
-      <Ser_Pack_to_zip>true</Ser_Pack_to_zip>
-    </Sending_Profile>
-    <Sending_Profile>
-      <Sending_Profile_Name>Wizualizacja Danych</Sending_Profile_Name>
-      <Ser_List_of_Dirs>
-        <Directory_filters>
-          <directory_path>S:\Programy Visual Studio\#5 semestr\Wizualizacja Danych\Wizualizacja Danych</directory_path>
-          <list_filters>
-            <string>cpp</string>
-            <string>h</string>
-          </list_filters>
-          <pack_whole_dir_to_zip>false</pack_whole_dir_to_zip>
-        </Directory_filters>
-        <Directory_filters>
-          <directory_path>S:\Duże rzeczy z PULPITU\Moje Pliki\I ARCHIWUM NABYTEJ WIEDZY</directory_path>
-          <list_filters />
-          <pack_whole_dir_to_zip>true</pack_whole_dir_to_zip>
-        </Directory_filters>
-        <Directory_filters>
-          <directory_path>S:\Duże rzeczy z PULPITU\Moje Pliki\I MOJE ROZKMINY</directory_path>
-          <list_filters />
-          <pack_whole_dir_to_zip>true</pack_whole_dir_to_zip>
-        </Directory_filters>
-      </Ser_List_of_Dirs>
-      <Ser_List_of_File_Paths />
-      <Ser_Tytle>Wizualizacja Danych - backup</Ser_Tytle>
-      <Ser_Txt_converted_name />
-      <Ser_Zip_name>code</Ser_Zip_name>
-      <Ser_Add_Hour_Bool>false</Ser_Add_Hour_Bool>
-      <Ser_Add_Date_Bool>true</Ser_Add_Date_Bool>
-      <Ser_Load_files_and_dirs>true</Ser_Load_files_and_dirs>
-      <Ser_Close_after_sending>true</Ser_Close_after_sending>
-      <Ser_Pack_to_zip>true</Ser_Pack_to_zip>
-    </Sending_Profile>
-    <Sending_Profile>
-      <Sending_Profile_Name>Optymalizacja</Sending_Profile_Name>
-      <Ser_List_of_Dirs>
-        <Directory_filters>
-          <directory_path>S:\Programy Visual Studio\#5 semestr\Optymalizacja\Optymalizacja</directory_path>
-          <list_filters>
-            <string>cpp</string>
-            <string>h</string>
-          </list_filters>
-          <pack_whole_dir_to_zip>false</pack_whole_dir_to_zip>
-        </Directory_filters>
-        <Directory_filters>
-          <directory_path>S:\Duże rzeczy z PULPITU\Moje Pliki\I ARCHIWUM NABYTEJ WIEDZY</directory_path>
-          <list_filters />
-          <pack_whole_dir_to_zip>true</pack_whole_dir_to_zip>
-        </Directory_filters>
-        <Directory_filters>
-          <directory_path>S:\Duże rzeczy z PULPITU\Moje Pliki\I MOJE ROZKMINY</directory_path>
-          <list_filters />
-          <pack_whole_dir_to_zip>true</pack_whole_dir_to_zip>
-        </Directory_filters>
-      </Ser_List_of_Dirs>
-      <Ser_List_of_File_Paths />
-      <Ser_Tytle>Optymalizacja</Ser_Tytle>
-      <Ser_Txt_converted_name />
-      <Ser_Zip_name>code</Ser_Zip_name>
-      <Ser_Add_Hour_Bool>false</Ser_Add_Hour_Bool>
-      <Ser_Add_Date_Bool>true</Ser_Add_Date_Bool>
-      <Ser_Load_files_and_dirs>true</Ser_Load_files_and_dirs>
-      <Ser_Close_after_sending>true</Ser_Close_after_sending>
-      <Ser_Pack_to_zip>true</Ser_Pack_to_zip>
-    </Sending_Profile>
-    <Sending_Profile>
-      <Sending_Profile_Name>Static Lib</Sending_Profile_Name>
-      <Ser_List_of_Dirs>
-        <Directory_filters>
-          <directory_path>S:\Programy Visual Studio\Static library - prep\Static library - prep</directory_path>
-          <list_filters>
-            <string>cpp</string>
-            <string>h</string>
-          </list_filters>
-          <pack_whole_dir_to_zip>false</pack_whole_dir_to_zip>
-        </Directory_filters>
-        <Directory_filters>
-          <directory_path>S:\Duże rzeczy z PULPITU\Moje Pliki\I ARCHIWUM NABYTEJ WIEDZY</directory_path>
-          <list_filters />
-          <pack_whole_dir_to_zip>true</pack_whole_dir_to_zip>
-        </Directory_filters>
-        <Directory_filters>
-          <directory_path>S:\Duże rzeczy z PULPITU\Moje Pliki\I MOJE ROZKMINY</directory_path>
-          <list_filters />
-          <pack_whole_dir_to_zip>true</pack_whole_dir_to_zip>
-        </Directory_filters>
-      </Ser_List_of_Dirs>
-      <Ser_List_of_File_Paths />
-      <Ser_Tytle>Static Lib</Ser_Tytle>
-      <Ser_Txt_converted_name />
-      <Ser_Zip_name>code</Ser_Zip_name>
-      <Ser_Add_Hour_Bool>false</Ser_Add_Hour_Bool>
-      <Ser_Add_Date_Bool>true</Ser_Add_Date_Bool>
-      <Ser_Load_files_and_dirs>true</Ser_Load_files_and_dirs>
-      <Ser_Close_after_sending>true</Ser_Close_after_sending>
-      <Ser_Pack_to_zip>true</Ser_Pack_to_zip>
-    </Sending_Profile>
-    <Sending_Profile>
-      <Sending_Profile_Name>Sender Man</Sending_Profile_Name>
-      <Ser_List_of_Dirs>
-        <Directory_filters>
-          <directory_path>S:\Programy Visual Studio\Wysylanie na maila\Wysylanie na maila</directory_path>
-          <list_filters />
-          <pack_whole_dir_to_zip>false</pack_whole_dir_to_zip>
-        </Directory_filters>
-        <Directory_filters>
-          <directory_path>S:\Duże rzeczy z PULPITU\Moje Pliki\I ARCHIWUM NABYTEJ WIEDZY</directory_path>
-          <list_filters />
-          <pack_whole_dir_to_zip>true</pack_whole_dir_to_zip>
-        </Directory_filters>
-        <Directory_filters>
-          <directory_path>S:\Duże rzeczy z PULPITU\Moje Pliki\I MOJE ROZKMINY</directory_path>
-          <list_filters />
-          <pack_whole_dir_to_zip>true</pack_whole_dir_to_zip>
-        </Directory_filters>
-      </Ser_List_of_Dirs>
-      <Ser_List_of_File_Paths />
-      <Ser_Tytle>Sender Man</Ser_Tytle>
-      <Ser_Txt_converted_name />
-      <Ser_Zip_name>code</Ser_Zip_name>
-      <Ser_Add_Hour_Bool>false</Ser_Add_Hour_Bool>
-      <Ser_Add_Date_Bool>true</Ser_Add_Date_Bool>
-      <Ser_Load_files_and_dirs>true</Ser_Load_files_and_dirs>
-      <Ser_Close_after_sending>true</Ser_Close_after_sending>
-      <Ser_Pack_to_zip>true</Ser_Pack_to_zip>
-    </Sending_Profile>
-    <Sending_Profile>
-      <Sending_Profile_Name>Ray Tracing</Sending_Profile_Name>
-      <Ser_List_of_Dirs>
-        <Directory_filters>
-          <directory_path>C:\Users\Admin\Desktop\Ray Tracing - Full Pack\Ray Tracing</directory_path>
-          <list_filters>
-            <string>cpp</string>
-            <string>h</string>
-          </list_filters>
-          <pack_whole_dir_to_zip>false</pack_whole_dir_to_zip>
-        </Directory_filters>
-        <Directory_filters>
-          <directory_path>C:\Users\Admin\Desktop\Tracing Knowledge</directory_path>
-          <list_filters />
-          <pack_whole_dir_to_zip>false</pack_whole_dir_to_zip>
-        </Directory_filters>
-        <Directory_filters>
-          <directory_path>S:\Duże rzeczy z PULPITU\Moje Pliki\I ARCHIWUM NABYTEJ WIEDZY\Ciekawe koncepty z C++ (GOTOWE PRZYKŁADY)</directory_path>
-          <list_filters />
-          <pack_whole_dir_to_zip>false</pack_whole_dir_to_zip>
-        </Directory_filters>
-      </Ser_List_of_Dirs>
-      <Ser_List_of_File_Paths />
-      <last_send_to>wojciech.mackowiak24@gmail.com</last_send_to>
-      <last_send_from>Application Sender</last_send_from>
-      <Ser_Tytle>Ray Tracing</Ser_Tytle>
-      <Ser_Txt_converted_name />
-      <Ser_Zip_name>code</Ser_Zip_name>
-      <Ser_Add_Hour_Bool>false</Ser_Add_Hour_Bool>
-      <Ser_Add_Date_Bool>true</Ser_Add_Date_Bool>
-      <Ser_Load_files_and_dirs>true</Ser_Load_files_and_dirs>
-      <Ser_Close_after_sending>true</Ser_Close_after_sending>
-      <Ser_Pack_to_zip>true</Ser_Pack_to_zip>
-    </Sending_Profile>
-    <Sending_Profile>
-      <Sending_Profile_Name>Badania Operacyjne - Projekt</Sending_Profile_Name>
-      <Ser_List_of_Dirs>
-        <Directory_filters>
-          <directory_path>S:\Programy Visual Studio\#6 semestr\Badania Operacyjne - Projekt\Badania Operacyjne - Projekt</directory_path>
-          <list_filters />
-          <pack_whole_dir_to_zip>false</pack_whole_dir_to_zip>
-        </Directory_filters>
-      </Ser_List_of_Dirs>
-      <Ser_List_of_File_Paths />
-      <last_send_to>wojciech.mackowiak24@gmail.com</last_send_to>
-      <last_send_from>Backup</last_send_from>
-      <Ser_Tytle>Badania Operacyjne - Projekt</Ser_Tytle>
-      <Ser_Txt_converted_name />
-      <Ser_Zip_name>code</Ser_Zip_name>
-      <Ser_Add_Hour_Bool>false</Ser_Add_Hour_Bool>
-      <Ser_Add_Date_Bool>true</Ser_Add_Date_Bool>
-      <Ser_Load_files_and_dirs>true</Ser_Load_files_and_dirs>
-      <Ser_Close_after_sending>true</Ser_Close_after_sending>
-      <Ser_Pack_to_zip>true</Ser_Pack_to_zip>
-    </Sending_Profile>
-    <Sending_Profile>
-      <Sending_Profile_Name>C++ Curiosity</Sending_Profile_Name>
-      <Ser_List_of_Dirs>
-        <Directory_filters>
-          <directory_path>S:\Ciekawe koncepty z C++ (GOTOWE PRZYKŁADY)\Classes with members of each other - linker problem</directory_path>
-          <list_filters>
-            <string>h</string>
-            <string>cpp</string>
-          </list_filters>
-          <pack_whole_dir_to_zip>false</pack_whole_dir_to_zip>
-        </Directory_filters>
-      </Ser_List_of_Dirs>
-      <Ser_List_of_File_Paths />
-      <last_send_to>wojciech.mackowiak24@gmail.com</last_send_to>
-      <last_send_from>Application Sender</last_send_from>
-      <Ser_Tytle>C++ Curiosity</Ser_Tytle>
-      <Ser_Txt_converted_name />
-      <Ser_Zip_name>code</Ser_Zip_name>
-      <Ser_Add_Hour_Bool>false</Ser_Add_Hour_Bool>
-      <Ser_Add_Date_Bool>true</Ser_Add_Date_Bool>
-      <Ser_Load_files_and_dirs>true</Ser_Load_files_and_dirs>
-      <Ser_Close_after_sending>true</Ser_Close_after_sending>
-      <Ser_Pack_to_zip>true</Ser_Pack_to_zip>
+      <Ser_Close_after_sending>false</Ser_Close_after_sending>
+      <Ser_Pack_to_zip>false</Ser_Pack_to_zip>
     </Sending_Profile>
   </all_profiles>
 </One_Big_Serializer>
