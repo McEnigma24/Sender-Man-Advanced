@@ -8,11 +8,9 @@
     <Sending_Profile>
       <Sending_Profile_Name>New Sending Profile</Sending_Profile_Name>
       <Ser_List_of_Dirs />
-      <Ser_List_of_File_Paths>
-        <string>C:\Users\Admin\Desktop\Infa Techniczna.png</string>
-      </Ser_List_of_File_Paths>
-      <last_send_to>ignacyklucz@gmail.com</last_send_to>
-      <last_send_from>me</last_send_from>
+      <Ser_List_of_File_Paths />
+      <last_send_to>12</last_send_to>
+      <last_send_from>12</last_send_from>
       <Ser_Tytle>Test</Ser_Tytle>
       <Ser_Txt_converted_name />
       <Ser_Zip_name />
